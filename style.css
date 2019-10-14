@@ -1,0 +1,25 @@
+.bOne	{
+	width: 100%;
+	height: 300px;
+	background-color: gray;
+	
+}
+
+
+.b2	{
+	width: 45%;
+	height: 300px;
+	float: left;
+	border: 10px solid green;
+	
+}
+
+
+.b3	{
+	width: 45%;
+	height: 300px;
+	float: left;
+	border: 10px solid green;
+	
+}
+
